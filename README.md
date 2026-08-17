@@ -59,7 +59,7 @@ Privacy-first Windows translation app: select-to-translate, screenshot OCR with 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Tianao0110&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tianao0110&show_icons=true&theme=default&hide_border=true&count_private=true)
 ![Streak](https://streak-stats.demolab.com?user=Tianao0110&hide_border=true)
 
 </div>
