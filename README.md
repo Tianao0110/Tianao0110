@@ -1,18 +1,71 @@
-# Hi, I'm Huajie(Edan) Zeng 👋
+<div align="center">
 
+# Hi, I'm Huajie (Edan) Zeng 👋
 
-Software Development student at **SAIT** (Calgary, graduating 2026) building full-stack and AI-powered applications.
+**Software Development @ SAIT '26 · Calgary**
+Building full-stack and AI-powered applications
 
-## 🔭 What I'm working on
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edanzeng)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Junior%20Developer%202026-2ea44f?style=for-the-badge)](https://www.linkedin.com/in/edanzeng)
 
-- 🌲 **[Wildfire Hazard Detection System](https://github.com/lateNightDebug/Wildfire-hazard-detection-system)** — Capstone project. Detects hazardous dead trees, flame, and smoke from drone imagery using YOLO11 + DeepForest, with human-in-the-loop review, offline satellite maps, and automated PDF reports. *Python · FastAPI · PyTorch · Azure*
+</div>
 
-- 🌐 **[T-Translate](https://github.com/Tianao0110/T-Translate)** — Privacy-first Windows translation app I designed and built: select-to-translate, screenshot OCR with multi-engine fallback, local LLM support, encrypted key storage. Shipped as a packaged installer (v0.3). *Electron · React 18 · Zustand*
+---
 
-## 🛠️ Tech stack
+## 🔭 Featured Projects
 
-`Python` `C#` `JavaScript` `SQL` `React` `Electron` `FastAPI` `Azure` `Git`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📫 Reach me
+### 🌲 Wildfire Hazard Detection
+**Capstone · Team Project**
 
-[LinkedIn](https://www.linkedin.com/in/edanzeng) · Calgary, AB · Open to junior developer opportunities (2026)
+AI system that detects hazardous dead trees, flame, and smoke from drone imagery. YOLO11 + DeepForest detection, human-in-the-loop review, offline satellite maps, automated PDF field reports.
+
+`Python` `FastAPI` `PyTorch` `Azure`
+
+[View Repository →](https://github.com/lateNightDebug/Wildfire-hazard-detection-system)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 T-Translate
+**Solo Design & Build · Shipped v0.3**
+
+Privacy-first Windows translation app: select-to-translate, screenshot OCR with multi-engine fallback, local LLM support, encrypted key storage. Released as packaged installer.
+
+`Electron` `React 18` `Zustand` `Vite`
+
+[View Repository →](https://github.com/Tianao0110/T-Translate)
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Tianao0110&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Streak](https://streak-stats.demolab.com?user=Tianao0110&hide_border=true)
+
+</div>
+
+<div align="center">
+
+📫 [LinkedIn](https://www.linkedin.com/in/edanzeng) · 📍 Calgary, AB
+
+</div>
