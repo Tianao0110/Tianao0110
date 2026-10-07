@@ -31,7 +31,7 @@ AI system that detects hazardous dead trees, flame, and smoke from drone imagery
 <td width="50%" valign="top">
 
 ### 🌐 T-Translate
-**Solo Design & Build · Shipped v0.3**
+**Solo Design & Build · Shipped v0.5.3**
 
 Privacy-first Windows translation app: select-to-translate, screenshot OCR with multi-engine fallback, local LLM support, encrypted key storage. Released as packaged installer.
 
