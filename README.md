@@ -46,14 +46,16 @@ Privacy-first Windows translator: select-to-translate, screenshot OCR, swappable
 </td>
 <td width="33%" valign="top">
 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png" height="56" alt="Under construction">
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ea.png" height="56" alt="LIMS">
 
-### Next Project
-**In progress**
+### Lab Information Management
+**Solo design & build**
 
-Something new is on the way. Details coming soon.
+Water-quality lab system: chain of custody, results checked against Canadian guidelines, amendment-safe records, full audit trail, CSV/Excel/PDF reports. Concurrency rules enforced in Postgres.
 
-`TBD`
+`React` `TypeScript` `Supabase` `PostgreSQL`
+
+[View Repository →](https://github.com/Tianao0110/Laboratory-Information-Management-System)
 
 </td>
 </tr>
@@ -64,6 +66,7 @@ Something new is on the way. Details coming soon.
 **Languages** &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -78,6 +81,7 @@ Something new is on the way. Details coming soon.
 
 **Tools** &nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <div align="center">
