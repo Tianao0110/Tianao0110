@@ -31,7 +31,7 @@ Offline desktop app that finds dead trees, fallen trees, flame and smoke in dron
 <td width="33%" valign="top">
 
 ### 🌐 T-Translate
-**Solo design & build · v0.5.3**
+**Solo design & build** · [![Latest release](https://img.shields.io/github/v/release/Tianao0110/T-Translate?style=flat-square&label=release&color=2ea44f)](https://github.com/Tianao0110/T-Translate/releases/latest)
 
 Privacy-first Windows translator: select-to-translate, screenshot OCR, swappable local LLMs, encrypted key storage. Shipped as an installer.
 
