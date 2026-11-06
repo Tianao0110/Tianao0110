@@ -18,7 +18,9 @@ I build offline-first desktop and AI applications, end to end.
 <tr>
 <td width="33%" valign="top">
 
-### 🌲 Wildfire Hazard Detection
+<img src="https://raw.githubusercontent.com/Tianao0110/Wildfire-hazard-detection-system/main/branding/logo.png" height="56" alt="Wildfire logo">
+
+### Wildfire Hazard Detection
 **Capstone · Back-end & system lead**
 
 Offline desktop app that finds dead trees, fallen trees, flame and smoke in drone photos, with human review, offline satellite maps and PDF field reports. Runs on Windows and macOS.
@@ -30,7 +32,9 @@ Offline desktop app that finds dead trees, fallen trees, flame and smoke in dron
 </td>
 <td width="33%" valign="top">
 
-### 🌐 T-Translate
+<img src="https://raw.githubusercontent.com/Tianao0110/T-Translate/main/public/icon.png" height="56" alt="T-Translate logo">
+
+### T-Translate
 **Solo design & build** · [![Latest release](https://img.shields.io/github/v/release/Tianao0110/T-Translate?style=flat-square&label=release&color=2ea44f)](https://github.com/Tianao0110/T-Translate/releases/latest)
 
 Privacy-first Windows translator: select-to-translate, screenshot OCR, swappable local LLMs, encrypted key storage. Shipped as an installer.
@@ -42,7 +46,9 @@ Privacy-first Windows translator: select-to-translate, screenshot OCR, swappable
 </td>
 <td width="33%" valign="top">
 
-### 🚧 Next Project
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png" height="56" alt="Under construction">
+
+### Next Project
 **In progress**
 
 Something new is on the way. Details coming soon.
