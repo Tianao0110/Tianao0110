@@ -16,47 +16,50 @@ I build offline-first desktop and AI applications, end to end.
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-<img src="https://raw.githubusercontent.com/Tianao0110/Wildfire-hazard-detection-system/main/branding/logo.png" height="56" alt="Wildfire logo">
-
-### Wildfire Hazard Detection
-**Capstone · Back-end & system lead**
-
-Offline desktop app that finds dead trees, fallen trees, flame and smoke in drone photos, with human review, offline satellite maps and PDF field reports. Runs on Windows and macOS.
-
-`Python` `PyTorch` `FastAPI` `YOLO` `Leaflet`
-
-[View Repository →](https://github.com/Tianao0110/Wildfire-hazard-detection-system)
-
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://raw.githubusercontent.com/Tianao0110/Wildfire-hazard-detection-system/main/branding/logo.png" height="64" alt="Wildfire logo">
+<br><br>
+<b>Wildfire Hazard Detection</b>
+<br>
+<sub>Capstone · Back-end &amp; system lead</sub>
+<br><br>
+<sub>Offline desktop app that finds fire hazards in drone photos, with human review and PDF field reports.</sub>
+<br><br>
+<code>Python</code> <code>PyTorch</code> <code>FastAPI</code> <code>YOLO</code>
+<br><br>
+<a href="https://github.com/Tianao0110/Wildfire-hazard-detection-system">Repository →</a>
+<br><br>
 </td>
-<td width="33%" valign="top">
-
-<img src="https://raw.githubusercontent.com/Tianao0110/T-Translate/main/public/icon.png" height="56" alt="T-Translate logo">
-
-### T-Translate
-**Solo design & build** · [![Latest release](https://img.shields.io/github/v/release/Tianao0110/T-Translate?style=flat-square&label=release&color=2ea44f)](https://github.com/Tianao0110/T-Translate/releases/latest)
-
-Privacy-first Windows translator: select-to-translate, screenshot OCR, swappable local LLMs, encrypted key storage. Shipped as an installer.
-
-`Electron` `React 18` `Zustand` `Vite`
-
-[View Repository →](https://github.com/Tianao0110/T-Translate)
-
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://raw.githubusercontent.com/Tianao0110/T-Translate/main/public/icon.png" height="64" alt="T-Translate logo">
+<br><br>
+<b>T-Translate</b>
+<br>
+<sub>Solo design &amp; build</sub>
+<br><br>
+<sub>Privacy-first Windows translator with screenshot OCR, swappable local LLMs and encrypted keys.</sub>
+<br><br>
+<code>Electron</code> <code>React 18</code> <code>Zustand</code> <code>Vite</code>
+<br><br>
+<a href="https://github.com/Tianao0110/T-Translate">Repository →</a> · <a href="https://github.com/Tianao0110/T-Translate/releases/latest"><img src="https://img.shields.io/github/v/release/Tianao0110/T-Translate?style=flat-square&label=release&color=2ea44f" alt="Latest release" align="absmiddle"></a>
+<br><br>
 </td>
-<td width="33%" valign="top">
-
-<img src="https://raw.githubusercontent.com/Tianao0110/Water-Sample-Monitoring-System/main/public/logo.png" height="56" alt="Water Sample Monitoring System logo">
-
-### Water Sample Monitoring System
-**Solo design & build**
-
-Water-quality lab system: chain of custody, results checked against Canadian guidelines, amendment-safe records, full audit trail, CSV/Excel/PDF reports. Concurrency rules enforced in Postgres.
-
-`React` `TypeScript` `Supabase` `PostgreSQL`
-
-[View Repository →](https://github.com/Tianao0110/Water-Sample-Monitoring-System) · [Live Demo →](https://laboratory-information-management-s-seven.vercel.app)
-
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://raw.githubusercontent.com/Tianao0110/Water-Sample-Monitoring-System/main/public/logo.png" height="64" alt="Water Sample Monitoring System logo">
+<br><br>
+<b>Water Sample Monitoring System</b>
+<br>
+<sub>Solo design &amp; build</sub>
+<br><br>
+<sub>Water-quality lab system with chain of custody, guideline checks, exceedance review and a full audit trail.</sub>
+<br><br>
+<code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code>
+<br><br>
+<a href="https://github.com/Tianao0110/Water-Sample-Monitoring-System">Repository →</a> · <a href="https://laboratory-information-management-s-seven.vercel.app">Live Demo →</a>
+<br><br>
 </td>
 </tr>
 </table>
@@ -86,7 +89,10 @@ Water-quality lab system: chain of custody, results checked against Canadian gui
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Tianao0110&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Tianao0110&hide_border=true&theme=dark">
+  <img src="https://streak-stats.demolab.com?user=Tianao0110&hide_border=true" alt="GitHub streak">
+</picture>
 
 📫 [LinkedIn](https://www.linkedin.com/in/edanzeng) · 📍 Calgary, AB
 
