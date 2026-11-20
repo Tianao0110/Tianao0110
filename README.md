@@ -46,16 +46,16 @@ Privacy-first Windows translator: select-to-translate, screenshot OCR, swappable
 </td>
 <td width="33%" valign="top">
 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ea.png" height="56" alt="LIMS">
+<img src="https://raw.githubusercontent.com/Tianao0110/Water-Sample-Monitoring-System/main/public/logo.png" height="56" alt="Water Sample Monitoring System logo">
 
-### Lab Information Management
+### Water Sample Monitoring System
 **Solo design & build**
 
 Water-quality lab system: chain of custody, results checked against Canadian guidelines, amendment-safe records, full audit trail, CSV/Excel/PDF reports. Concurrency rules enforced in Postgres.
 
 `React` `TypeScript` `Supabase` `PostgreSQL`
 
-[View Repository →](https://github.com/Tianao0110/Water-Sample-Monitoring-System)
+[View Repository →](https://github.com/Tianao0110/Water-Sample-Monitoring-System) · [Live Demo →](https://laboratory-information-management-s-seven.vercel.app)
 
 </td>
 </tr>
