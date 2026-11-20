@@ -41,7 +41,7 @@ I build offline-first desktop and AI applications, end to end.
 <br><br>
 <sub>Privacy-first Windows translator with screenshot OCR, swappable local LLMs and encrypted keys.</sub>
 <br><br>
-<code>Electron</code> <code>React 18</code> <code>Zustand</code> <code>Vite</code>
+<code>Electron</code> <code>React</code> <code>Vite</code>
 <br><br>
 <a href="https://github.com/Tianao0110/T-Translate">Repository →</a> · <a href="https://github.com/Tianao0110/T-Translate/releases/latest"><img src="https://img.shields.io/github/v/release/Tianao0110/T-Translate?style=flat-square&label=release&color=2ea44f" alt="Latest release" align="absmiddle"></a>
 <br><br>
@@ -56,7 +56,7 @@ I build offline-first desktop and AI applications, end to end.
 <br><br>
 <sub>Water-quality lab system with chain of custody, guideline checks, exceedance review and a full audit trail.</sub>
 <br><br>
-<code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code>
+<code>React</code> <code>TypeScript</code> <code>Supabase</code>
 <br><br>
 <a href="https://github.com/Tianao0110/Water-Sample-Monitoring-System">Repository →</a> · <a href="https://laboratory-information-management-s-seven.vercel.app">Live Demo →</a>
 <br><br>
