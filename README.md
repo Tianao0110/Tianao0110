@@ -55,7 +55,7 @@ Water-quality lab system: chain of custody, results checked against Canadian gui
 
 `React` `TypeScript` `Supabase` `PostgreSQL`
 
-[View Repository →](https://github.com/Tianao0110/Laboratory-Information-Management-System)
+[View Repository →](https://github.com/Tianao0110/Water-Sample-Monitoring-System)
 
 </td>
 </tr>
